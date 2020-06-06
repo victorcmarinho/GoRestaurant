@@ -22,13 +22,13 @@ Para inicializar todos os testes já prepardos, utilize <code> yarn test </code>
 # Como rodar? 🤔
 Siga os passos:
 
-<code>
+```
     yarn
     npm i -g json-server
     json-server server.json -p 3333
     yarn start
 
-</code>
+```
 Happy Hacking! 🚀
 
 ⚠️ Caso o projeto não mostre os produtos, rode <code>adb reverse tcp:3333 tcp:3333</code> antes de iniciar a Fake API ⚠️
