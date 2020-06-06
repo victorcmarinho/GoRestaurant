@@ -38,7 +38,7 @@ Happy Hacking! 🚀
 
 ```bash
 # Clone o seu fork
-$ git clone url-do-seu-fork && cd GoRestaurantWeb
+$ git clone url-do-seu-fork && cd nome-do-projeto
 
 # Crie uma branch com sua feature ou correção de bugs
 $ git checkout -b minha-branch
